@@ -1,0 +1,43 @@
+body{
+	font-size: 60px;
+	color: white;
+}
+
+#home{
+	background-color: #d5be90;
+}
+
+.home {
+	font-family: Goudy Old Style;
+}
+
+#about {
+	background-color: #b3b3b3;	
+}
+
+.about {
+	font-family: Goudy Old Style;
+}
+
+#projects {
+	background-color: #9fc786;
+}
+
+.projects {
+	font-family: Goudy Old Style;
+}
+
+#contact {
+	background-color: #99b3ff;
+}
+
+.contact {
+	font-family: Goudy Old Style;
+}
+
+img {
+	display: block;
+	height: 500px;
+	width: 800px;
+	margin: auto;
+}
