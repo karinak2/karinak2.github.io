@@ -1,0 +1,113 @@
+
+body{
+	width: 1000px;
+	font-size: 60px;
+	font-family: Goudy Old Style, Helvetica;
+	margin-bottom: 50px;
+}
+
+#home{
+	background-color: #d5be90;
+}
+
+.home {
+	font-family: Goudy Old Style;
+}
+
+#about {
+	background-color: #b3b3b3;	
+}
+
+.about {
+	font-family: Goudy Old Style;
+}
+
+#projects {
+	background-color: #9fc786;
+}
+
+.projects {
+	font-family: Goudy Old Style;
+}
+
+#contact {
+	background-color: #99b3ff;
+}
+
+.contact {
+	font-family: Goudy Old Style;
+}
+
+.one {
+	text-align: center;
+}
+
+#paint {
+	position: center;
+} 
+
+#project {
+	position: center;
+}
+
+#my {
+	position: center;
+}
+
+#piano {
+	position: center;
+}
+
+.bar {
+	display: inline;
+	padding: 10px;
+	border: 2px solid #000000;
+	border-radius: 5px 5px;
+	text-align: center;
+}
+
+#bar {
+	text-align: center;
+	border-top-left-radius: 15px;
+border-top-right-radius: 15px;
+}
+
+ .two {
+	 background-image: paint.jpeg;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+ }
+ 
+ .three {
+	 background-image: project.jpeg;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+ }
+ 
+ .four {
+	background-image: my.jpeg;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+ }
+ 
+ span {
+	font-weight: bold;
+	font-size: 25px;
+	color: #0000CC;
+}
+
+#st {
+	font-size: 25px;
+}
+ 
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Goudy Old Style;
+}
